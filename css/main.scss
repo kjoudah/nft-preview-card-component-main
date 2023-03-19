@@ -26,7 +26,7 @@ html {
 
 .card-image {
   margin: 7.5% 5% 0 5%;
-  background: url(/images/image-equilibrium.jpg) no-repeat center/cover;
+  background: url(../images/image-equilibrium.jpg) no-repeat center/cover;
   width: 85%;
   height: 60%;
   position: relative;
@@ -52,7 +52,7 @@ html {
       width: 100%;
       height: 100%;
       position: absolute;
-      background: url(/images/icon-view.svg) no-repeat center;
+      background: url(../images/icon-view.svg) no-repeat center;
       z-index: 10;
     }
   }
@@ -100,7 +100,7 @@ html {
   align-items: center;
 
   .nft-icon {
-    background: url(/images/icon-ethereum.svg) no-repeat center;
+    background: url(../images/icon-ethereum.svg) no-repeat center;
     width: 11px;
     height: 18px;
   }
@@ -125,7 +125,7 @@ html {
   .time-left-icon {
     width: 17px;
     height: 17px;
-    background: url(/images/icon-clock.svg) no-repeat;
+    background: url(../images/icon-clock.svg) no-repeat;
     margin-right: 5px;
   }
 }
@@ -139,7 +139,7 @@ html {
 
 .nft-footer {
   .nft-creator-icon {
-    background: url(/images/image-avatar.png) no-repeat center/cover;
+    background: url(../images/image-avatar.png) no-repeat center/cover;
     height: 32px;
     width: 32px;
     border: 1px white solid;
